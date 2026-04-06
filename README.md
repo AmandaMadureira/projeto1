@@ -55,10 +55,10 @@ ionic serve
 
 ## 👨‍💻 Autor
 
-* Seu Nome Aqui
+* Amanda Madureira
 
 ---
 
 ## 📌 Observações
 
-Este projeto foi desenvolvido como atividade prática para aprendizado de desenvolvimento mobile com Ionic.
+Este projeto foi desenvolvido como atividade prática para aprendizado de desenvolvimento mobile com Ionic proporcionado pelo Prof. João Ferreira.
